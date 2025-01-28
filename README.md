@@ -1,4 +1,4 @@
-# Full Stack Developer | 2 Years Experience
+# Full Stack Developer | 3 Years Experience
 
 ## Hello, I'm Deepak Bhosale
 
@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with two yea
 
 - **Front-end**:
   - React.js
+  - React-Native
   - TypeScript
   - JavaScript
   - HTML
